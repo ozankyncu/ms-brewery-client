@@ -1,0 +1,1 @@
+package com.kyncu.msbreweryclient.web.client;
